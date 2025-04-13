@@ -25,6 +25,7 @@ Este projeto visa implementar uma lista de tarefas (to-do list) com foco na expe
 **Back-end:** C#/ASP.NET, Entity Framework como ORM 
 
 **Banco de dados:** PostgreSQL
+**Container:** Docker
 
 
 ## Entrega
